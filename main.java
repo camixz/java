@@ -11,7 +11,7 @@ class HelloWorld {
         
         System.out.println("Ano de lancamento " + ano);
         
-        double media = (8.4 + 7.5 + 6.8)/3;
+        double media = (8.4 + 7.5 + 8.8)/3;
         System.out.println("A media das notas deste filme e: " +media);
         
         String sinopse;
